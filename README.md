@@ -1,2 +1,2 @@
-# ProjectStreamBeats
+# Projeto StreamBeats
 Projeto StreamBeats
